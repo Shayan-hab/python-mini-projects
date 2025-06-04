@@ -5,9 +5,9 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib.pyplot as plt
 
 # Constants
-API_KEY = '96b1081cef658d27aba8574b6c8305aa'
-BASE_URL = 'https://api.openweathermap.org/data/2.5/weather'
-FORECAST_URL = 'https://api.openweathermap.org/data/2.5/forecast'
+API_KEY = ''
+BASE_URL = ''
+FORECAST_URL = ''
 GROUP_URL = 'https://api.openweathermap.org/data/2.5/group'
 
 # Fetch weather for a specific city
