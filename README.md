@@ -1,6 +1,6 @@
 ## 📁 Projects Included
 
-### 1 Weather Forecast App 🌦️
+### 1 🌦️ Weather Forecast App 
 
 ## 🚀 Features
 
